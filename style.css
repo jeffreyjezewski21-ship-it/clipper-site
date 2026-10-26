@@ -1,0 +1,8 @@
+body { font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; color: #222; background: #fff; }
+h1 { font-size: 1.6em; margin-bottom: 0.2em; }
+h2 { font-size: 1.15em; margin-top: 1.6em; }
+nav { margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #0b62c4; }
+.date { color: #666; }
+@media (prefers-color-scheme: dark) { body { color: #ddd; background: #161616; } a { color: #6aa8f0; } .date { color: #999; } }
